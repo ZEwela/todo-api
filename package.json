@@ -1,6 +1,7 @@
 {
   "name": "my-awesome-package",
   "dependencies": {
+    "npm": "^6.14.7",
     "yarn": "^1.22.4"
   }
 }
