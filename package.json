@@ -1,3 +1,6 @@
 {
-  "name": "my-awesome-package"
+  "name": "my-awesome-package",
+  "dependencies": {
+    "yarn": "^1.22.4"
+  }
 }
