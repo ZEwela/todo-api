@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## To run this small project locally:
 
-Things you may want to cover:
+    - yarn install
+    - heroku local -f Procfile.dev
 
-* Ruby version
+## What I have learned here:
 
-* System dependencies
+    - RubyGems
+    - Model is a class that is used to represent data, can interact with database through Active Record
+    - Controller is a class, its public methods are actions
+    - View is a templete (HTML, embeded ruby) of interface for client
+    - Stucture of app folder after rails new app
+    - React exits
 
-* Configuration
+## Technologies Used:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    React 16.13.1
+    Ruby 2.7.1
+    Rails 6.0.3.2
+    Puma 4.1
